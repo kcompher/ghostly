@@ -1,0 +1,30 @@
+==> 2019-04-03 03:13:54 <==
+# cmd: /Users/kcom/conda/bin/conda create -n ploney python=2.7 -y
+# conda version: 4.6.8
++conda-forge::ca-certificates-2019.3.9-hecc5488_0
++conda-forge::certifi-2019.3.9-py27_0
++conda-forge::libffi-3.2.1-h6de7cb9_1006
++conda-forge::ncurses-6.1-h0a44026_1002
++conda-forge::openssl-1.1.1b-h01d97ff_2
++conda-forge::pip-19.0.3-py27_0
++conda-forge::python-2.7.15-h932b40d_1008
++conda-forge::readline-7.0-hcfe32e1_1001
++conda-forge::setuptools-40.8.0-py27_0
++conda-forge::sqlite-3.26.0-h1765d9f_1001
++conda-forge::tk-8.6.9-ha441bb4_1001
++conda-forge::wheel-0.33.1-py27_0
++conda-forge::zlib-1.2.11-h1de35cc_1004
++defaults::libcxx-4.0.1-hcfea43d_1
++defaults::libcxxabi-4.0.1-hcfea43d_1
+# update specs: ['python=2.7']
+==> 2019-04-03 03:23:55 <==
+# cmd: /Users/kcom/conda/bin/conda install nodejs -y
+# conda version: 4.6.8
++conda-forge::nodejs-11.11.0-h0a44026_0
+# update specs: ['nodejs']
+==> 2019-04-03 03:26:51 <==
+# cmd: /Users/kcom/conda/bin/conda install nodejs=10.13.0
+# conda version: 4.6.8
+-conda-forge::nodejs-11.11.0-h0a44026_0
++defaults::nodejs-10.13.0-h0a44026_0
+# update specs: ['nodejs=10.13.0']
